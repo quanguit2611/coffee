@@ -5,6 +5,8 @@ import Home from './components/home/Home';
 import About from './components/about/About';
 import Features from './components/features/Features';
 import Menu from './components/menu/Menu';
+import Choose from './components/choose/Choose';
+import Stats from './components/stats/Stats';
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
       <About />
       <Features />
       <Menu />
+      <Choose />
+      <Stats />
     </>
   );
 }
