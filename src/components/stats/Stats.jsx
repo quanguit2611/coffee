@@ -28,7 +28,7 @@ const Stats = () => {
 
                 <div>
                     <p className="stats__no">600000</p>
-                    <h3 className="stats__title">+ Happy customer</h3>
+                    <h3 className="stats__title">+ Happy customers</h3>
                 </div>
             </div>
 
@@ -50,7 +50,7 @@ const Stats = () => {
 
                 <div>
                     <p className="stats__no">200</p>
-                    <h3 className="stats__title">+ Years Of experience</h3>
+                    <h3 className="stats__title">+ Years Of Experience</h3>
                 </div>
             </div>
         </div>
