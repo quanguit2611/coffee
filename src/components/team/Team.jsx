@@ -11,7 +11,7 @@ const Team = () => {
     return (
         <section className="team section" id="team">
             <h2 className="section__title" data-title='Chefs'>
-                Meet Our Expertss
+                Meet Our Experts
             </h2>
 
             <div className="team__grid grid container">

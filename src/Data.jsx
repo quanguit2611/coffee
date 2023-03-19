@@ -198,7 +198,7 @@ export const testimonials = [
   {
     id: 1,
     img: testimonial1,
-    title: 'Reid E Butt',
+    title: 'Reid E Butler',
     service: 'Customer',
     description:
       'There are many variations passages of the available but the majority have suffered to the alteration in some form by injected of humour or randomised words.',
