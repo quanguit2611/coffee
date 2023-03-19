@@ -38,3 +38,25 @@
     display: none;
     /* màn hình đủ rộng thì không cần toggle menu */
 }
+
+/*===============
+ * Scroll Header
+===============*/
+.scroll-header
+{
+    position: fixed;
+    background-color: var(--container-color);
+    animation: slide-down 0.7s; /* animation này có tên là key down*/
+}
+
+/* định nghĩa key down*/
+@keyframes slide-down
+{
+    0% {
+        transform: translateY(-100%);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
